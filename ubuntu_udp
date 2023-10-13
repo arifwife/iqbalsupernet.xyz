@@ -6,7 +6,7 @@ PASS='smart444_iqbalsupernet';
 DBNAME='smart444_iqbalsupernet';
 PORT_TCP='5666';
 PORT_UDP='5666';
-SUB_DOMAIN=jo33.iqbalsupernet.xyz
+SUB_DOMAIN=u3na.iqbalsupernet.xyz
 MYIP=$(wget -qO- icanhazip.com);
 server_ip=$(curl -s https://api.ipify.org)
 timedatectl set-timezone Asia/Riyadh
